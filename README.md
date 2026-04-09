@@ -61,3 +61,5 @@ tinkercad在倒數時不知為何會突然LCD滅掉 找不到原因
 
 除了蜂鳴器現在一切都如預期(有影片)
 行充可當電源供應
+<img width="1495" height="695" alt="image" src="https://github.com/user-attachments/assets/30ef2986-a0ce-47f2-b08c-3306a0894b45" />
+
