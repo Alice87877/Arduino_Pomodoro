@@ -108,7 +108,7 @@ void loop(){
   //計時 現在時間 - 上次記錄 ≥ 1000 ms
   //不使用delay是因為會有延遲非實際時間，使用時整個程式延後
   if (!paused && millis() - lastMillis >= 1000) {
-    lastMillis = millis();
+    lastMillis += 1000;
     totalSeconds--;
   }
 
